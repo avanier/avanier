@@ -11,10 +11,6 @@ making sure it's all of it is a breeze for every user.
 I just caught the bug to tinker when I was young and still enjoy it years later as a grown
 up. 💪
 
-<br>
-
-<hr/>
-
 ## 📌 Pinned Repositories
 
 <br>
@@ -42,9 +38,9 @@ up. 💪
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=avanier&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Alexis' GitHub Stats" />
 </a>
 
-<hr/>
+## Buzzword 🥗
 
-You can find below a logo-salad 🥗 of things I've worked with.
+You can find below a salad of things I've worked with.
 
 <details>
 <summary>Programming Languages</summary>
