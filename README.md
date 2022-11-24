@@ -11,7 +11,32 @@ making sure it's all of it is a breeze for every user.
 I just caught the bug to tinker when I was young and still enjoy it years later as a grown
 up. 💪
 
+<br>
+
 <hr/>
+
+## 📌 Pinned Repositories
+
+<br>
+
+<a href="https://github.com/avanier/ax-helm-charts">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=avanier&repo=ax-helm-charts&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/avanier/papercert">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=avanier&repo=papercert&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/avanier/gorecptprint">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=avanier&repo=gorecptprint&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
 
 <a href="https://github.com/avanier">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=avanier&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Alexis' GitHub Stats" />
