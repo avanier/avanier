@@ -64,6 +64,6 @@ You can find below a salad of things I've worked with.
 
 </details>
 
-<!--
-<a rel="me" href="https://mastodon.mtltech.space/@karax">Mastodon</a>
--->
+<hr/>
+<a href="https://bunnyhole.org"><img src="https://img.shields.io/badge/-noappear?logo=firefox&style=flat&color=gray"></img></a>
+<a rel="me" href="https://mastodon.mtltech.space/@karax"><img src="https://img.shields.io/badge/-noappear?logo=mastodon&style=flat&color=gray"></img></a>
